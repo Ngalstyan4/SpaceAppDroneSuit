@@ -1,0 +1,6 @@
+[submodule "SpaceAppsDroneServlet"]
+	path = SpaceAppsDroneServlet
+	url = https://github.com/Ngalstyan4/SpaceAppsDroneServlet.git
+[submodule "dont_crush_my_drone"]
+	path = dont_crush_my_drone
+	url = https://github.com/Belzebub1/dont_crush_my_drone
